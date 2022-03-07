@@ -2,13 +2,6 @@ import sqlite3
 import DataBases
 import os
 import time
-'''comments by JATIN'''
-#check for foreign keys before deleting suppliers
-#while taking input use exception handling in case user inputs wrong type of values or use str datatype
-#need input validation which will check for sql injections and also let users quit/ go back para(message,type)
-#debug/background msg function needed
-'''comments by NEERAJ'''
-#ok
 
 class Supplier:
 
